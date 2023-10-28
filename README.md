@@ -17,8 +17,8 @@ This project demonstrates a basic implementation of a parser for a context-free 
 To use the parser and visualize the parse tree, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/your-username/context-free-parser.git
-   cd context-free-parser
+   git clone https://github.com/fahadyousuf2003/Parser-For-Context-Free-Grammer.git
+   cd Parser-For-Context-Free-Grammer
 
 2. Run the main.py script:
    python main.py
